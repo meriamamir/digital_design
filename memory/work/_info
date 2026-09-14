@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/hp/Desktop/Digital design assignments/memory
+vmemory_test
+Z1 2memory.v|memory_test.v
+Z2 !s110 1789400843
+!i10b 1
+!s100 AKILY<2TgLUSP6:cBGdJU0
+I`gRnDV>7K6DaCP;cH6`L81
+R0
+w1789398760
+8memory_test.v
+Fmemory_test.v
+!i122 2
+L0 1 77
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z5 !s108 1789400843.000000
+!s107 memory_test.v|memory.v|
+Z6 !s90 memory.v|memory_test.v|
+!i113 0
+Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+vregister
+R1
+R2
+!i10b 1
+!s100 _a5mJVbH02ZIk?AMjbZ9E0
+INi0dn=oI?d^=9YTOnE0^G2
+R0
+w1789400840
+8memory.v
+Fmemory.v
+!i122 2
+L0 1 31
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z9 !s107 memory_test.v|memory.v|
+R6
+!i113 0
+R7
+R8
